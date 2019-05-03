@@ -1,0 +1,7 @@
+F:\Program Files\responsipemrog2293\responsipemrog2293\bin\Debug\responsipemrog2293.exe.config
+F:\Program Files\responsipemrog2293\responsipemrog2293\bin\Debug\responsipemrog2293.exe
+F:\Program Files\responsipemrog2293\responsipemrog2293\bin\Debug\responsipemrog2293.pdb
+F:\Program Files\responsipemrog2293\responsipemrog2293\obj\Debug\responsipemrog2293.csprojAssemblyReference.cache
+F:\Program Files\responsipemrog2293\responsipemrog2293\obj\Debug\responsipemrog2293.csproj.CoreCompileInputs.cache
+F:\Program Files\responsipemrog2293\responsipemrog2293\obj\Debug\responsipemrog2293.exe
+F:\Program Files\responsipemrog2293\responsipemrog2293\obj\Debug\responsipemrog2293.pdb
